@@ -1,12 +1,9 @@
-Oh, hello!
+Hi!
 
-I am a simple starter set for building an application with React on the front end, and Express/Sequelize on the backend!
+This is a simple starting point for a HTML5 game using Canvas, Sockets.io and Express.
 
 To start using me, here's what you'll have to do:
 
-* Choose a name for your app!
-* `createdb YOUR_APP_NAME`
-* In `server/db.js`, swap out the 'YOUR_DB' bit with your actual db name
 * `npm install`
 * `npm start`
 
